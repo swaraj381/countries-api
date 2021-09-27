@@ -36,7 +36,7 @@ As mentioned above, there are a number of ways to host your project for free. We
 
 ## Giving feedback
 
-Feedback is always welcome, so if you have any to give on this challenge please email hi[at]frontendmentor[dot]io.
+Feedback is always welcome, so if you have any to give on this challenge please email at swarajsatya2@gmail.com.
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
