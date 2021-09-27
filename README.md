@@ -5,7 +5,7 @@ Thanks for checking out this front-end coding challenge.
 
 ## Where to find everything
 
-Your task is to build out the project to the designs inside the `/design` folder. 
+
 
 In this challenge, you will find mobile and desktop designs in light and dark mode color schemes for both pages.
 
