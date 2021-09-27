@@ -11,7 +11,6 @@ In this challenge, you will find mobile and desktop designs in light and dark mo
 
 The designs are in JPG static format. This will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. This should help train your eye to perceive differences in spacings and sizes.
 
-If you would like the Sketch file in order to inspect the design in more detail you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
 
 There are no assets for this challenge, as the country flags will be pulled from the [REST Countries API](https://restcountries.eu) and you can use an icon font library for the icons.
 
