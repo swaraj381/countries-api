@@ -7,7 +7,6 @@ Thanks for checking out this front-end coding challenge.
 
 
 
-In this challenge, you will find mobile and desktop designs in light and dark mode color schemes for both pages.
 
 The designs are in JPG static format. This will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. This should help train your eye to perceive differences in spacings and sizes.
 
